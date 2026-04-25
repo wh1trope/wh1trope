@@ -9,7 +9,7 @@ I work outside the box and focus on making useful tools that actually solve prob
 
 ## About Me
 
-- 🇵🇱 Based in Poland
+- 📍 Based in Poland
 - 🎵 Interested in music and programming
 - 🛠️ I enjoy creating unconventional projects
 - 🧠 Currently learning Rust
