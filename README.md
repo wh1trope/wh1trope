@@ -10,9 +10,9 @@ I work outside the box and focus on making useful tools that actually solve prob
 ## About Me
 
 - 📍 Based in Poland
+- 🧠 Currently learning Rust
 - 🎵 Interested in music and programming
 - 🛠️ I enjoy creating unconventional projects
-- 🧠 Currently learning Rust
 - 🔐 In the future, I want to work in cybersecurity
 
 ---
