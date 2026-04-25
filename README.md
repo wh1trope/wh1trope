@@ -1,4 +1,4 @@
-# Hi, I'm wh1trope 👋
+# Hi, I'm whitrope 👋
 
 I fill the gaps in the market by creating the projects that are missing.  
 I work outside the box and focus on making useful tools that actually solve problems.
