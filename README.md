@@ -30,6 +30,12 @@ I work outside the box and focus on making useful tools that actually solve prob
 
 ---
 
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=wh1trope&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+---
+
 ## Featured Project
 
 ### Guardian
@@ -49,9 +55,5 @@ The best free anti-crash plugin for Minecraft.
 - Email: xxxwhitrope@gmail.com
 
 ---
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=wh1trope&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![Profile views](https://komarev.com/ghpvc/?username=wh1trope&label=Profile%20views&style=for-the-badge)
