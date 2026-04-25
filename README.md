@@ -53,3 +53,4 @@ The best free anti-crash plugin for Minecraft.
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=wh1trope&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Profile views](https://visitcount.itsvg.in/api?id=wh1trope&icon=0&color=1)
